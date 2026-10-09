@@ -1,0 +1,10 @@
+{
+  "nested_cv_roc_auc_mean": 0.9893,
+  "nested_cv_roc_auc_std": 0.0086,
+  "test_accuracy": 0.9561,
+  "test_precision": 0.9589,
+  "test_recall": 0.9722,
+  "test_f1": 0.9655,
+  "test_roc_auc": 0.9939,
+  "test_pr_auc": 0.9964
+}
